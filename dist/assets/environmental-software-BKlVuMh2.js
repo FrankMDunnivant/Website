@@ -1,0 +1,98 @@
+const e=`<h3>Educational Software Development</h3>
+<p><em>All of these software packages have been published since my arrival at Whitman. In general, each package took at least a year to complete, including the selection and discussion of each topic with my peers across the nation, the design/layout, programming, debugging and editing, and production and testing (and more debugging). Peer-review occurred at several stages: (1) in the beginning with topic and concept selection and design, (2) prior to the release of the software package, and (3) by peer acceptance. Given the nature of web page statistics counters, it is impossible to tell how many people used our software, but each year over 10,000 hits from over 105 countries are recorded for our download pages. Internet statistics show that users include government organizations, secondary education, colleges and research universities, and industry.</em></p>
+
+<p><strong>Annual Usage:</strong> Over 10,000 hits from over 105 countries</p>
+
+<h3>Available Software Packages</h3>
+
+<h4>Dispersion Calculator</h4>
+<p>This Flask-based and numerical engine package allows users to estimate the dispersion of a chemical tracer or pollutant in soil and sediment columns. Experimental data from pulse or step input of pollutants can be modeled.</p>
+<p><strong>Created by:</strong> Gabrielle Boisrame, Albert Schueller, and Frank Dunnivant</p>
+<ul>
+  <li><a href="http://www.whitman.edu/chemistry/edusolns_software/DispCalc.swf.zip" target="_blank">Download Dispersion Calculator</a> (0.468 Mb)</li>
+  <li><a href="https://edusolns.com/environmental_software/en/dispersion/" target="_blank">Online Version</a></li>
+</ul>
+
+<h4>EnviroLand Version 3.0</h4>
+<div class="float-right ml-4 mb-4">
+  <img src="https://web.archive.org/web/20201023180942im_/https://sites.google.com/a/whitman.edu/frank-dunnivant-webpage/_/rsrc/1471047561207/environmentalsoftware/enviroland-icon.gif" alt="EnviroLand Icon" class="max-w-[150px]">
+</div>
+<p>This was our first software package created by Dan Danowski. EnviroLand contains several Visual Basic simulations of wet laboratory experiments for environmental chemistry (alkalinity, hardness, dissolved oxygen, biochemical oxygen demand, etc.), a theoretical calculation/simulator (pC-pH diagram), and seven pollutant fate and transport simulators.</p>
+<p><strong>Note:</strong> EnviroLand only works on PC machines.</p>
+<ul>
+  <li><a href="http://www.whitman.edu/chemistry/edusolns_software/enviroland.zip" target="_blank">Download EnviroLand 3.0</a> (12 Mb)</li>
+</ul>
+
+<h4>Fate-2011</h4>
+<p>This upgraded Flask-based package replaces EnviroLand and the original Fate, and is compatible on Mac and PC machines. Fate contains pollutant fate and transport simulators for pulse and step inputs of pollutants to atmospheric, lake, river, and groundwater systems.</p>
+<p><strong>Created by:</strong> Elliot Anders and Frank Dunnivant</p>
+<ul>
+  <li><a href="http://www.whitman.edu/chemistry/edusolns_software/Fate2011.swf.zip" target="_blank">Download Fate-2011</a> (11 Mb)</li>
+</ul>
+
+<h4>Fate-2016 (Online Version)</h4>
+<p>This updated online version of Fate allows you to estimate concentrations of pollutants in various environments.</p>
+<ul>
+  <li><a href="https://educationalsolutions.github.io/fate/" target="_blank">Launch Fate-2016 Online</a></li>
+</ul>
+
+<h4>pC-pH Simulator</h4>
+<p>A computer package for drawing pC-pH diagrams for open and closed systems.</p>
+<ul>
+  <li><a href="https://educationalsolutions.github.io/pCpH//open/" target="_blank">Launch pC-pH Simulator Online</a></li>
+</ul>
+
+<h4>EnviroLab (English and Spanish)</h4>
+<p>Shockwave software designed to educate English and Spanish speaking individuals on experiments for measuring water quality.</p>
+<p><strong>Note:</strong> All files are in .swf format. It is recommended that files are downloaded and then opened in an updated version of Google Chrome.</p>
+<ul>
+  <li><a href="https://edusolns.com/environmental_software/en/" target="_blank">EnviroLab - English Version</a></li>
+  <li><a href="https://edusolns.com/environmental_software/es/" target="_blank">EnviroLab - Versión Español</a></li>
+</ul>
+
+<h3>Video Tutorials</h3>
+
+<h4>GC Tutorial</h4>
+<p>This video provides a detailed overview of the theory and use of a capillary column gas chromatograph. The GC Tutorial is geared toward laboratory courses in environmental chemistry and instrument methods of analysis.</p>
+<div class="video-wrapper my-6">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FxUzLWoxMDQ" title="GC Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h4>HPLC Tutorial</h4>
+<p>This video provides a detailed overview of the theory and use of a high pressure liquid chromatograph. The HPLC Tutorial is geared toward laboratory courses in environmental chemistry and instrument methods of analysis.</p>
+<div class="video-wrapper my-6">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Rb7TjRwtsJc" title="HPLC Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h4>Global Issues</h4>
+<p>This video focuses on three pressing issues in environmental chemistry and engineering: acid rain, global warming, and ozone depletion. It serves as a great introduction to environmental issues and is geared toward high school and undergraduate education.</p>
+<div class="video-wrapper my-6">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9gCpPd--9bs" title="Global Environmental Issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h4>Water Treatment</h4>
+<p>This video takes the viewer on a tour of state-of-the-art drinking water and domestic wastewater treatment plants. Water serves as a great introduction to treatment processes and is geared toward high school and undergraduate education.</p>
+<div class="video-wrapper my-6">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MoxsntrWQDw" title="Water Treatment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<h3>Software Access</h3>
+<p>All software packages and additional resources are available from:</p>
+<ul>
+  <li><a href="http://www.edusolns.com" target="_blank">www.edusolns.com</a></li>
+  <li><a href="https://sites.google.com/a/whitman.edu/frank-dunnivant-webpage/environmentalsoftware" target="_blank">Whitman College Software Page</a></li>
+</ul>
+
+<h3>Software Focus Areas</h3>
+<ul>
+  <li>Fate and Transport Modeling</li>
+  <li>Risk Assessment Tools</li>
+  <li>Chemical Property Estimation</li>
+  <li>Environmental Data Analysis</li>
+  <li>Interactive Learning Modules</li>
+  <li>Chromatography and Mass Spectrometry Education</li>
+  <li>Water Treatment Processes</li>
+  <li>Water Quality Analysis</li>
+</ul>
+
+`;export{e as default};

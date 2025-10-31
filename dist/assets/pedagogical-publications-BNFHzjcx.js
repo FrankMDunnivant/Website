@@ -1,0 +1,32 @@
+const n=`<h3>Pedagogical Publications</h3>
+<p><em>Publications focused on innovative teaching methodologies and educational resources for chemistry.</em></p>
+
+<h4>Teaching Methodology Publications</h4>
+<ul>
+  <li>Dunnivant, F.M. and R. Olsen*. 2007. A Simple Sand Column Experiment to Illustrate Pollutant Hydrology in Groundwater Systems. <em>Journal of Geoscience Education</em>, January, Vol. 55(1), 51-55.</li>
+  
+  <li>Dunnivant, F.M. and M.C. Reynolds*. 2007. A Chemical Transformation Laboratory Exercise for Environmental Chemistry: The Reduction of Nitrobenzenes by Anaerobic Solutions of Humic Acid. <em>Journal of Chemical Education</em>, February, Vol. 84(2), 315-317.</li>
+  
+  <li>Dunnivant, F.M. 2006. An Integrated Limnology, Microbiology, and Chemistry Exercise for Teaching Thermodynamics. <em>American Biology Teacher</em>, 68(7), 424-427, Sept.</li>
+  
+  <li>Dunnivant, F.M., D. Danowski*, and M. Newman. 2002. Teaching Pollutant Fate and Transport Concepts to Undergraduate Non-Science Majors, Environmental Scientists, and Hydrologists using EnviroLand. <em>Journal of Geoscience Education</em>, 50(5), pp 553-558.</li>
+  
+  <li>Dunnivant, F.M., D. Danowski*, M. Newman, T. Spano*, and F. Frye*. 2002. Teaching Chemical Speciation to Environmental Chemists and Geochemists using EnviroLand. <em>Journal of Geoscience Education</em>, 50(5), pp 549-552.</li>
+  
+  <li>Dunnivant, F.M., D. Danowski*, and A. Timmens-Haroldson*. 2002. EnviroLand: A Simple Computer Program for Quantitative Stream Assessment. <em>The American Biology Teacher</em>, 64 (8), pp 589-595.</li>
+  
+  <li>Dunnivant, F.M., D.M. Simon, and S. Wilson. 2002. The Making of a Solution: A Simple but Poorly Understood Concept in General Chemistry. <em>The Chemical Educator</em>, 7(4), pp 207-210.</li>
+  
+  <li>Dunnivant, F.M. and J. Kettel*. 2002. An Environmental Chemistry Laboratory for the Determination of a Distribution Coefficient. <em>Journal of Chemical Education</em>, 79(6), 715-717.</li>
+  
+  <li>Dunnivant, F.M. 2002. Analytical Problems Associated with the Analysis of Metals in a Simulated Hazardous Waste. <em>Journal of Chemical Education</em>, 79(6), 718-720.</li>
+  
+  <li>Dunnivant, F.M., M.J. Alfano*, R. Brzenk, P.T. Buckley, A. Moore, and M.E. Newman. 2000. Understanding Global Warming: Is Global Warming Real? An Integrated Lab-Lecture Exercise for Non-Science Majors. <em>Journal of Chemical Education</em>, December, 77(12), 1602-1603.</li>
+  
+  <li>Dunnivant, F.M., M.E. Newman, R. Brzenk, A. Moore, M.J. Alfano*. 1999. A Comprehensive Stream Study Designed for An Undergraduate Non-majors Course in Earth Science. <em>Journal of Geoscience Education</em>, 47, 158-165.</li>
+</ul>
+
+<h3>Educational Software & Media</h3>
+<p>Professor Dunnivant has developed numerous peer-reviewed educational software packages used worldwide in environmental chemistry education. These include EnviroLand, Fate, pC-pH Simulator, and various tutorial systems. See the <a href="#environmental-software">Environmental Software</a> section for details.</p>
+
+`;export{n as default};
