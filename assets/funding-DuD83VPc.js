@@ -1,0 +1,111 @@
+const n=`<h3>Research Funding Overview</h3>
+<p>Principal Investigator or Co-PI for research and educational projects totaling approximately <strong>$7.5 million</strong> in funding. Projects range from small internal grants to multimillion-dollar Department of Energy contracts.</p>
+
+<h3>Major Grants (Recent)</h3>
+
+<h4>Instrumentation Grants</h4>
+<ul>
+  <li><strong>M.J. Murdock Charitable Trust</strong> (2006-2007)<br/>
+  Purchase of GC-MS and CE system<br/>
+  <em>Funding: $182,500 plus $120,000 matching from Whitman College</em></li>
+  
+  <li><strong>Camille and Henry Dreyfus Foundation</strong> (2007)<br/>
+  Matching funding for ICP-MS system<br/>
+  <em>Funding: $50,000</em></li>
+  
+  <li><strong>M.J. Murdock Charitable Trust</strong> (2005-2006)<br/>
+  Startup Grant for new Chemistry Faculty<br/>
+  <em>Funding: $25,000</em></li>
+</ul>
+
+<h4>Educational Development Grants</h4>
+<ul>
+  <li><strong>National Collegiate Inventors and Innovators Alliance (NCIIA)</strong> (2000)<br/>
+  Computer-Based Tutorials for Teaching Chemistry<br/>
+  <em>Funding: $16,000</em></li>
+  
+  <li><strong>Camille and Henry Dreyfus Foundation</strong> (1999-2000)<br/>
+  Interactive Computer Tools for Environmental Chemistry Curriculum<br/>
+  <em>Funding: $25,000</em></li>
+</ul>
+
+<h4>Perry Foundation Grants (Multiple Years)</h4>
+<ul>
+  <li>2017: Determination of Wastewater Volume in U.S. Rivers and Lakes ($7,350)</li>
+  <li>2017: Determination of Lead (Pb) Concentrations in Walla Walla Domestic Drinking Water ($5,850)</li>
+  <li>2016: Origin of Atmospheric Mercury Deposition to Pacific Northwest Alpine Lakes ($11,050)</li>
+  <li>2015: Origin of Atmospheric Mercury Deposition to Pacific NorthWest Alpine Lakes ($11,050)</li>
+  <li>2012: PCB and DDT Concentrations in Remote Alpine Lakes ($8,500)</li>
+  <li>2011: Determining the Presence of Dense Non-Aqueous Phase Liquid (DNAPL) Pollutants in River Sediments ($8,000)</li>
+  <li>2009: PCB and DDT Concentrations in Remote Alpine Lakes ($8,000)</li>
+  <li>2007: Mass Spectroscopy Laboratory Exercises and Development of Laboratory Exercises ($8,000)</li>
+  <li>2000-2001: Community Topics for Environmental Education ($8,000)</li>
+</ul>
+
+<h4>HHMI Grants</h4>
+<ul>
+  <li>2011: Determining the Release of Chlorinated Pesticides during Simulated River Dredging Events ($13,000)</li>
+</ul>
+
+<h4>Abshire Grants (Multiple Years)</h4>
+<ul>
+  <li>2016: Spanish EnviroLab ($1,000)</li>
+  <li>2011: Development of Mathematical Problems for Environmental Chemistry ($800)</li>
+  <li>2009: Development of homework problems for Environmental Chemistry ($800)</li>
+  <li>2007: Development of figures and illustrations for a layperson's book ($400)</li>
+  <li>2006-2007: Development of materials for a layperson's book ($750)</li>
+  <li>2004-2005: Development of materials for a textbook on environmental chemistry ($750)</li>
+</ul>
+
+<h3>Major DOE Projects (INEL Period, 1992-1996)</h3>
+<ul>
+  <li><strong>Large-Scale Infiltration Experiment</strong> (1993-1995)<br/>
+  Co-Investigator for radionuclide migration studies<br/>
+  <em>Total: ~$5.3 million over 3 years (1993: ~$2M; 1994: ~$2.4M; 1995: ~$900K)</em></li>
+  
+  <li><strong>Laboratory Experiments to Determine the Migration Potential of Radionuclides</strong> (1993-1995)<br/>
+  Co-PI for radionuclide migration potential in subsurface material of the INEL<br/>
+  <em>Total: ~$1.3 million (1993: $980,707; 1994: $298,515; 1995: $56,723)</em></li>
+  
+  <li><strong>LDRD Project: Down-Hole Gamma Spectroscopy</strong> (1994)<br/>
+  PI for Real-Time Contaminant Monitoring<br/>
+  <em>Funding: $32,000</em></li>
+  
+  <li><strong>Experiments Using Natural Organics</strong> (1989-1991)<br/>
+  Co-PI with Oak Ridge National Laboratory<br/>
+  <em>Funding: ~$400,000/year</em></li>
+</ul>
+
+<h3>Early Career Grants</h3>
+<ul>
+  <li><strong>Hartwick College Trustee Grants</strong> (1997, 1998, 1999)<br/>
+  Development of Interactive Software (EnviroLand)<br/>
+  <em>Total: $10,500</em></li>
+  
+  <li><strong>Hartwick College Culpeper Grant</strong> (1997)<br/>
+  Development of Interactive Software<br/>
+  <em>Funding: $2,000</em></li>
+  
+  <li><strong>Clemson University & EPA Grants</strong> (1987-1988)<br/>
+  Various analytical chemistry projects<br/>
+  <em>Total: $9,000</em></li>
+</ul>
+
+<h3>Research Areas Funded</h3>
+<ul>
+  <li>Environmental monitoring and assessment</li>
+  <li>Development of analytical techniques</li>
+  <li>Educational media and software development</li>
+  <li>Textbook and laboratory manual development</li>
+  <li>Pacific Northwest ecosystem studies</li>
+  <li>Alpine lake contamination studies</li>
+  <li>Radionuclide fate and transport</li>
+  <li>Heavy metal analysis in aquatic systems</li>
+  <li>PCB and pesticide desorption kinetics</li>
+  <li>Lead contamination in drinking water</li>
+</ul>
+
+<h3>Student Research Opportunities</h3>
+<p>Students interested in research opportunities should contact Professor Dunnivant to discuss current projects and funding availability. Typical student research projects are supported through Perry Grants, Abshire Grants, and other internal Whitman College funding sources.</p>
+
+`;export{n as default};
